@@ -9,6 +9,7 @@
 ---
 
 ## 📋 アプリ概要
+デプロイURL：https://bayesian-disaster-priority-wnttn3ck54r433xbajyknx.streamlit.app/
 - 複数のベイズ統計手法を統合して、災害支援要請の優先度を「参考指標」として可視化
 - 使用手法:
   - 共役事前分布（解析的事後分布）
