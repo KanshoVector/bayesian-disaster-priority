@@ -27,7 +27,7 @@
 
 ```bash
 # 1. リポジトリのクローン
-git clone https://github.com/ReoSato0110/bayesian-disaster-priority
+git clone https://github.com/KanshoVector/bayesian-disaster-priority
 cd bayesian-disaster-priority
 
 
